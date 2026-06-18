@@ -16,7 +16,7 @@ addon_info = AddonInfo(
 	# Add-on description
 	# Translators: Long description to be shown for this add-on
 	addon_description=_("""Adds "Run" buttons to NVDA's Input Gestures dialog, so you can try out the command currently selected in the tree right away, without closing the dialog or having to remember its assigned key combination.
-	Four buttons are provided (Run 1x, 2x, 3x and 4x), each running the command that many times in a row. This makes it easy to test commands whose behaviour changes depending on how many times in a row they are pressed, such as reporting the time on the first press and the date on the second.
+	Four buttons are provided (Run 1x, 2x, 3x and 4x), each running the command that many times in a row. This makes it easy to run commands whose behaviour changes depending on how many times in a row they are pressed, such as reporting the time on the first press and the date on the second.
 	Works both with NVDA's own built-in commands and with commands added by other add-ons. While a command runs, the dialog is briefly hidden, with speech muted around the hide/show so NVDA's own focus announcements don't interrupt or get mixed up with whatever the command itself reports."""),
 	
 	# version
