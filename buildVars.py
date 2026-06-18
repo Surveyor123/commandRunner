@@ -37,7 +37,7 @@ Fixed: Speech is now muted while the dialog is briefly hidden and shown again to
 	addon_url=None,
 	
 	# URL for the add-on repository where the source code can be found
-	addon_sourceURL=None,
+	addon_sourceURL="https://github.com/surveyor123/commandRunner",
 	
 	# Documentation file name
 	addon_docFileName="readme.html",
